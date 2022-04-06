@@ -1,0 +1,461 @@
+.col-3.offset-3 {
+}
+
+.cabecera-correo {
+  font-size: 16px;
+  color: white;
+}
+
+#cabezera-lugar {
+  font-size: 16px;
+  color: white;
+}
+
+.logo {
+  max-height: 70px;
+  /*margin-right: 18px;*/
+}
+
+#logo {
+  max-height: 110px;
+  margin-left: 5%;
+  display: inline-block;
+}
+
+#carousel-home {
+  padding-top: 30px;
+}
+
+#logo-footer {
+  max-height: 200px;
+}
+
+#top-header {
+  background-color: #F27405;
+  padding: 12px;
+}
+
+.fa.fa-envelope.top-email {
+  color: white;
+  font-size: 17px;
+}
+
+.fa.fa-map-marker.top-lugar {
+  color: white;
+  font-size: 18px;
+}
+
+.fab.fa-facebook-square.top-header {
+  color: white;
+  font-size: 20px;
+  padding-right: 10px;
+}
+
+.fab.fa-instagram.top-header {
+  color: white;
+  font-size: 20px;
+  padding-right: 10px;
+}
+
+.fab.fa-whatsapp.top-header {
+  color: white;
+  font-size: 20px;
+  padding-top: px;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+}
+
+.navbar-light .navbar-toggler {
+  border-radius: 10px;
+  border: 2px solid #24A638;
+}
+
+#social-icon-footer {
+  font-size: 34px;
+  /*position: fixed;*/
+  width: 50px;
+  height: 50px;
+  /*bottom: 40px;*/
+  /*right: 40px;*/
+  background-color: #25d366;
+  color: #FFF;
+  border-radius: 50px;
+  text-align: center;
+  /*font-size: 30px;*/
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+
+#facebook-footer {
+  /*position: fixed;*/
+  width: 50px;
+  height: 50px;
+  bottom: 40px;
+  right: 40px;
+  background-color: #3b5998;
+  color: #FFF;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 34px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+#footer-instagram {
+  /*position: fixed;*/
+  width: 50px;
+  height: 50px;
+  bottom: 40px;
+  right: 40px;
+  /*background-color: #25d366;*/
+  color: #FFF;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 34px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+  padding: 8px;
+  margin-right: 20px;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+}
+
+#whatsapp-footer {
+  font-size: 34px;
+  /*position: fixed;*/
+  width: 50px;
+  height: 50px;
+  /*bottom: 40px;*/
+  /*right: 40px;*/
+  background-color: #25d366;
+  color: #FFF;
+  border-radius: 50px;
+  text-align: center;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+  padding: 8px;
+}
+
+
+
+
+#header-productos {
+  margin-top: 80px;
+  font-size: 40px;
+line-height: 50px;
+color: #112910;
+margin-bottom: 24px;
+text-transform: uppercase;
+font-weight: 700;
+padding-bottom: 60px;
+}
+
+
+#header-productos-detalles {
+  margin-top: 80px;
+  font-size: 40px;
+line-height: 50px;
+color: #24A62D;
+margin-bottom: 24px;
+text-transform: uppercase;
+font-weight: 700;
+}
+
+
+#content-logo {
+  padding: 5px;
+  align-content: center;
+}
+
+.galeria-productos {
+margin-top: 60px;
+  margin-bottom: 140px;
+}
+
+.navbar.navbar-light.navbar-expand-md.mobile {
+  display: block;
+  width: 100%;
+  padding: 10px 0;
+  border-top: 1px solid white;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.navbar-light .navbar-brand {
+}
+
+.nav-item {
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  background-color: whitesmoke;
+  color: crimson;
+  /*text-align: center;*/
+}
+
+body {
+  margin: 0;
+  font-family: Poppins, -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  /*font-size: 1rem;*/
+  /*font-weight: 400;*/
+  /*line-height: 1.5;*/
+  /*color: #212529;*/
+  /*text-align: left;*/
+  /*background-color: #fff;*/
+}
+
+a:hover {
+  color: #0056b3;
+  text-decoration: blink;
+}
+
+.carousel-item {
+  /*position: relative;*/
+  /*display: none;*/
+  /*float: left;*/
+  /*width: 100%;*/
+  height: 50%;
+  /*margin-right: -100%;*/
+  /*-webkit-backface-visibility: hidden;*/
+  /*backface-visibility: hidden;*/
+  /*transition: -webkit-transform .6s ease-in-out;*/
+  /*transition: transform .6s ease-in-out;*/
+  transition: transform .6s ease-in-out,-webkit-transform .6s ease-in-out;
+}
+
+.mb-3, .my-3 {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: white !important;
+  background-color: #24A62D;
+}
+
+/*   cinta de marcas */ 
+
+
+.brands2 {
+  width: 100%;
+  
+  padding-bottom: 90px
+}
+
+.brands {
+  width: 100%;
+  padding-top: 90px;
+  padding-bottom: 90px
+}
+
+.brands_slider_container {
+  height: 147px;
+  border: solid 1px #e8e8e8;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);
+  padding-left: 87px;
+  padding-right: 87px;
+  background: #fff
+}
+.owl-carousel .owl-item img {
+  width: 200px !important;
+}
+
+
+.brands_slider {
+  height: 100%;
+  margin-top: 6px
+}
+
+.brands_item {
+  height: 100%
+}
+
+.brands_item img {
+  max-width: 100%
+}
+
+.brands_nav {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+  padding: 5px;
+  cursor: pointer
+}
+
+.brands_nav i {
+  color: #e5e5e5;
+  -webkit-transition: all 200ms ease;
+  -moz-transition: all 200ms ease;
+  -ms-transition: all 200ms ease;
+  -o-transition: all 200ms ease;
+  transition: all 200ms ease
+}
+
+.brands_nav:hover i {
+  color: #676767
+}
+
+.brands_prev {
+  left: 40px
+}
+
+.brands_next {
+  right: 40px
+}
+
+
+/*  Nosotros  */
+
+#nosotros {
+background-color: #f7fbf3;
+
+}
+#nosotros-titulo {
+
+letter-spacing: 0.3em;
+font-weight: 600;
+}
+
+#nosotros-parrafo  {
+font-size: 18px;
+line-height: 28px;
+
+}
+
+
+/*   Detalles producto   */
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: white !important;
+  background-color: #24A62D;
+
+}
+
+.mb-3, .my-3 {
+  justify-content: center !important;
+}
+
+#detalles-productos {
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
+
+#texto-presentacion {
+  line-height: 25px;
+font-size: 24px;
+text-transform: capitalize;
+font-weight: 600;
+margin-top: 30px;
+margin-bottom: 16px;
+}
+
+#productos-detalles-descripcion{
+  color: #6b778d;
+  font-size: 16px;
+  margin: 10px;
+  line-height: 1.5;
+}
+
+#descripcion-detalles {
+
+  color: #6b778d;
+font-size: 16px;
+margin: 10px;
+line-height: 1.5;
+}
+
+/*   Productos  */ 
+
+.galeria-productos .image-block {
+display: block;
+position: relative;
+}
+
+.galeria-productos .lista-producto .content-overlay {
+
+background: rgba(252, 170, 0, 0.9);
+position: absolute;
+height: 100%;
+width: 100%;
+left: 0;
+top: 0;
+bottom: 0;
+right: 0;
+opacity: 0;
+transition: all 0.4s ease-in-out 0s;
+border-radius: 6px;
+}
+
+/* Medium devices (tablets, 768px and up)*/
+
+
+.galeria-productos .lista-producto:hover .content-overlay {
+  opacity: 1;
+}
+
+.galeria-productos .lista-producto:hover .content-details {
+  top: 50%;
+  left: 50%;
+  opacity: 1;
+}
+
+
+.img-fluid {
+  border-radius: 6px;
+  max-width: 100%;
+  height: auto;
+}
+
+.galeria-productos  .content-details {
+
+  position: absolute;
+  text-align: center;
+  padding-left: 1em;
+  padding-right: 1em;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  opacity: 0;
+  transform: translate(-50%, -50%);
+  transition: all 0.3s ease-in-out 0s;
+
+}
+
+.galeria-productos .fadeIn-bottom {
+top:80%;
+}
+
+.galeria-productos .content-details h3{
+  color: white;
+font-weight: 800;
+margin-bottom: 0.5em;
+text-transform: uppercase;
+font-size: 18px;
+
+}
+
+.galeria-productos .content-details p{
+  color: #fff;
+  font-size: 0.8em;
+}
+
+#inicio-slider {
+  margin-top: 70px;
+}
+
+#listado-productos {
+padding-bottom: 110px;
+}
+
+/*  CAROUSEL LISTA DE PRODUCTOS  */
+

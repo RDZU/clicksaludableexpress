@@ -1,0 +1,17 @@
+@media (min-width: 768px) {
+  #navcol-1 {
+  }
+}
+
+#carousel {
+  margin-top: 70px;
+}
+
+.container.nosotros {
+  background-color: rgba(166,97,97,0.08);
+}
+
+#nosotros {
+  background-color: #f3f6fb;
+}
+

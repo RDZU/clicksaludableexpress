@@ -1,0 +1,134 @@
+.card {
+    margin: auto;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px
+}
+
+fieldset.active {
+    display: block !important
+}
+
+fieldset {
+    display: none
+}
+
+
+/* Principal */
+.pic0 {
+    width: 400px;
+    height: 400px;
+    margin-left: 85px;
+    margin-right: auto;
+    border-radius: 6px;
+    display: block;  
+}
+
+/*  Vertical  */
+.pic1 {
+    width: 400px;
+    height: 650px;
+    margin-left: 85px;
+    margin-right: auto;
+    border-radius: 6px;
+    display: block;  
+}
+
+/*  Rectangular  */
+.pic2 {
+    width: 400px !important;
+    height: 400px;
+    margin-left: 85px !important;
+    margin-right: auto;
+    border-radius: 6px; 
+    display: block;  
+}
+
+/*  Horizontal  */
+.pic3 {
+    width: 400px;
+    height: 250px;
+    margin-left: 85px;
+    margin-right: auto;
+    border-radius: 6px;
+    display: block;  
+}
+
+
+
+.product-pic {
+    padding-left: auto;
+    padding-right: auto;
+    width: 100%
+}
+
+.thumbnails {
+    position: absolute
+}
+
+.fit-image {
+    width: 100%;
+    object-fit: cover
+}
+
+.tb {
+    width: 62px;
+    height: auto;
+    border: 1px solid grey;
+    margin: 2px;
+    opacity: 0.4;
+    cursor: pointer
+}
+
+.tb-active {
+    opacity: 1
+}
+
+
+/*  Principal */
+.thumbnail-img {
+    width: 60px;
+    height: 60px
+}
+
+/* Vertical   */
+.thumbnail-img2 {
+    width: 60px;
+    height: auto;
+}
+
+/* Rectangular   */
+.thumbnail-img3 {
+    width: 60px;
+    height: 60px
+}
+
+/*  Horizontal */
+.thumbnail-img4 {
+    width: 60px;
+    height: 40px
+}
+
+@media screen and (max-width: 768px) {
+    .pic0 {
+        width: 250px;
+        height: 250px
+    }
+
+    .pic1 {
+        width: 250px;
+        height: 500px
+    }
+
+    .pic2 {
+        width: 250px;
+        height: 250px
+    }
+
+    .pic3 {
+        width: 250px;
+        height: 150px
+    }
+    
+}

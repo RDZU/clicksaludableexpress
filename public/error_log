@@ -1,0 +1,1 @@
+[08-May-2021 08:28:30 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.28. in /home1/clicksb6/public_html/vendor/composer/platform_check.php on line 24
